@@ -1,5 +1,6 @@
 # astparser
 
+[![go reference](https://pkg.go.dev/badge/golang.org/x/pkgsite)](https://pkg.go.dev/github.com/kevinma2010/astparser)
 [![license](https://img.shields.io/crates/l/druid)](https://github.com/kevinma2010/astparser/blob/main/LICENSE)
 
 Easily parse go code, and you can get imports, structs, interfaces, functions, variables, constants.
