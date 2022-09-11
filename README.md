@@ -1,5 +1,7 @@
 # astparser
 
+[![license](https://img.shields.io/crates/l/druid)](https://github.com/kevinma2010/astparser/blob/main/LICENSE)
+
 Easily parse go code, and you can get imports, structs, interfaces, functions, variables, constants.
 
 ## Installation
@@ -67,3 +69,11 @@ log.Printf("%+v\n", parser.Structs[0])
 log.Printf("%+v\n", parser.Interfaces[0])
 log.Printf("%+v\n", parser.Imports)
 ```
+
+## Documentation
+
+For a more detailed overview of lane, please refer to [Documentation](https://pkg.go.dev/github.com/kevinma2010/astparser)
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
