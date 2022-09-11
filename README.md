@@ -76,4 +76,4 @@ For a more detailed overview of lane, please refer to [Documentation](https://pk
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[Apache-2.0 license](https://github.com/kevinma2010/astparser/blob/main/LICENSE)
