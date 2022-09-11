@@ -60,7 +60,7 @@ func main() {
 	fmt.Println("The author is", FirstName, LastName)
 }`
 
-parser, err := Parse(code)
+parser, err := astparser.Parse(code)
 if err != nil {
   log.Fatalf("parse code failure, reason: %s", err)
 }
